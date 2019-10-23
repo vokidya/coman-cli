@@ -4,3 +4,5 @@
 * Run `npm link`
 * Update the `base path` to be your path on `src/cli.js`
 * Run `coman-cli --name demo-input`, you can give the component name you want to create. Split the word with dash. 
+
+**Let me know if you see any issues on this.**
